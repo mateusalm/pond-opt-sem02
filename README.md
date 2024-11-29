@@ -33,6 +33,17 @@ Criar uma experiência educativa interativa, permitindo que visitantes de museus
 - **Justificativa da Aparência:**  
   A aparência reflete a identidade histórica de Heródoto, criando autenticidade e conexão visual com o mundo antigo. Roupas e traços clássicos reforçam o contexto histórico.
 
+## Imagens de referência
+
+![Escultura](img/referencias/escultura-filosofo.jpg)
+![Pintura](img/referencias/imagem-filosofo.jpg)
+
+## Imagens Metahuman
+
+![Meta Human Rosto - Frente](img/herodoto/rosto_frente.png)
+![Meta Human Rosto - Lado](img/herodoto/rosto_lado.png)
+![Meta Human Corpo Todo](img/herodoto/corpo_todo.png)
+
 ## Roteiro de Diálogo
 
 **Cenário:** Um visitante está em um museu físico, diante de uma estátua grega antiga. Um display interativo com Heródoto Virtual é ativado quando o visitante se aproxima.
