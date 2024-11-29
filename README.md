@@ -46,36 +46,36 @@ Criar uma experiência educativa interativa, permitindo que visitantes de museus
 
 ## Roteiro de Diálogo
 
-**Cenário:** Um visitante está em um museu físico, diante de uma estátua grega antiga. Um display interativo com Heródoto Virtual é ativado quando o visitante se aproxima.
+**Cenário:** Um visitante está em um museu físico, diante de uma estátua grega antiga. Ao colocar um óculos de realidade virtusl ou apontar a câmera do seu celular, o personagem Heródoto aparece ao lado da estátua e começa a dialogar com o visitante.
 
 ---
 
 ### Introdução
-**Heródoto Virtual:**  
-*"Saudações, viajante! Eu sou Heródoto, um humilde historiador grego da antiguidade. É uma honra guiá-lo pelo fascinante mundo da história. Vejo que você está diante de uma impressionante estátua grega. Permita-me contar-lhe mais sobre ela!"*
+**Heródoto:**  
+*"Saudações, viajante! Eu sou Heródoto, o Pai da História. É uma honra guiá-lo pelo fascinante mundo da história. Vejo que você está diante de uma impressionante estátua grega. Permita-me contar-lhe mais sobre ela!"*
 
 ---
 
 ### Apresentação do Objeto
-**Heródoto Virtual:**  
-*"Esta é uma estátua de Atena, a deusa da sabedoria, da guerra estratégica e das artes. Foi esculpida por volta do século V a.C., na época em que a cidade-estado de Atenas estava no auge de sua glória."*
+**Heródoto:**  
+*"Esta é uma estátua de Atena, a deusa da sabedoria, da guerra estratégica e das artes. Foi esculpida por volta do século V a.C., na época em que a cidade-estado de Atenas estava no seu auge."*
 
 ---
 
 ### Contextualização
-**Heródoto Virtual:**  
+**Heródoto:**  
 *"Você sabia que Atena era a patrona da cidade de Atenas? Seu nome foi escolhido pelos cidadãos após uma disputa com Poseidon. Diz a lenda que Atena ofereceu uma oliveira, símbolo de paz e prosperidade, e venceu o coração do povo."*
 
 **Visitante:**  
-*"Que interessante! Como era a vida em Atenas naquela época?"*
+*"Como era a vida em Atenas naquela época?"*
 
-**Heródoto Virtual:**  
-*"Ah, Atenas era vibrante! Era o centro do conhecimento, da democracia e da arte. Os cidadãos se reuniam na ágora para discutir política e ideias. Artistas e filósofos, como Fídias e Sócrates, floresceram nessa era. Era um tempo de inovação e esplendor cultural."*
+**Heródoto:**  
+*"Atenas era o centro do conhecimento, da democracia e da arte. Os cidadãos se reuniam na ágora para discutir política e ideias. Artistas e filósofos, como Fídias e Sócrates, floresceram nessa era. Era um tempo de inovação intelectual e cultural."*
 
 ---
 
 ### Encerramento
-**Heródoto Virtual:**  
+**Heródoto:**  
 *"Espero que este pequeno vislumbre do passado tenha enriquecido sua visita. Se precisar de mais informações, estarei aqui, pronto para explorar a história ao seu lado. Que a sabedoria de Atena o acompanhe!"*
 
 **Visitante:**  
